@@ -1,0 +1,22 @@
+{
+  "name": "surviv.io-cheat-master",
+  "version": "1.0.0",
+  "description": "surviv.io game",
+  "main": "start.js",
+  "scripts": {
+    "test": "k"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reuke/surviv.io-cheat.git"
+  },
+  "keywords": [
+    "A34"
+  ],
+  "author": "21424",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reuke/surviv.io-cheat/issues"
+  },
+  "homepage": "https://github.com/reuke/surviv.io-cheat#readme"
+}
